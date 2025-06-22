@@ -8,7 +8,7 @@ We are collaborating with Davsk Ltd Co to synergize our technologies and methodo
 
 - magicbike.mindbike.net is about the book
 - www.mindbike.net is about our company 
-- projects.mindbike.net
+- projects.mindbike.net is about the 503(c) nonprofit
 <!--
 
 **Here are some ideas to get you started:**
